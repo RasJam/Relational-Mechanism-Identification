@@ -1,0 +1,32 @@
+{
+  "absolute_0_probes": {
+    "mean_accuracy": 0.2,
+    "std_accuracy": 0.0,
+    "seeds": 5
+  },
+  "absolute_4_probes": {
+    "mean_accuracy": 1.0,
+    "std_accuracy": 0.0,
+    "seeds": 5
+  },
+  "relational_mechanics_0_probes": {
+    "mean_accuracy": 0.2,
+    "std_accuracy": 0.0,
+    "seeds": 5
+  },
+  "relational_mechanics_4_probes": {
+    "mean_accuracy": 1.0,
+    "std_accuracy": 0.0,
+    "seeds": 5
+  },
+  "relational_combined_0_probes": {
+    "mean_accuracy": 0.2,
+    "std_accuracy": 0.0,
+    "seeds": 5
+  },
+  "relational_combined_4_probes": {
+    "mean_accuracy": 1.0,
+    "std_accuracy": 0.0,
+    "seeds": 5
+  }
+}

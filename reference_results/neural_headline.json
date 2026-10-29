@@ -1,0 +1,14 @@
+{
+  "absolute": {
+    "held_out_probe_normalized_rmse_mean": 2.517840415239334,
+    "latent_family_accuracy_mean": 0.5966666666666667,
+    "latent_separation_ratio_mean": 0.806635483226969,
+    "neural_seeds": 3
+  },
+  "relational": {
+    "held_out_probe_normalized_rmse_mean": 0.31681911026438075,
+    "latent_family_accuracy_mean": 0.96,
+    "latent_separation_ratio_mean": 5.136485479475664,
+    "neural_seeds": 3
+  }
+}

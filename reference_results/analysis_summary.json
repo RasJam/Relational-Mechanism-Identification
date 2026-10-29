@@ -1,0 +1,448 @@
+{
+  "classical_active_probe_curve": [
+    {
+      "representation": "absolute",
+      "model": "logistic",
+      "active_probe_count": 0,
+      "mean_accuracy_across_probe_subsets": 0.2,
+      "minimum_accuracy": 0.2,
+      "maximum_accuracy": 0.2,
+      "probe_subsets": 1
+    },
+    {
+      "representation": "absolute",
+      "model": "logistic",
+      "active_probe_count": 1,
+      "mean_accuracy_across_probe_subsets": 0.6325,
+      "minimum_accuracy": 0.2,
+      "maximum_accuracy": 0.95,
+      "probe_subsets": 4
+    },
+    {
+      "representation": "absolute",
+      "model": "logistic",
+      "active_probe_count": 2,
+      "mean_accuracy_across_probe_subsets": 0.84,
+      "minimum_accuracy": 0.59,
+      "maximum_accuracy": 0.96,
+      "probe_subsets": 6
+    },
+    {
+      "representation": "absolute",
+      "model": "logistic",
+      "active_probe_count": 3,
+      "mean_accuracy_across_probe_subsets": 0.925,
+      "minimum_accuracy": 0.79,
+      "maximum_accuracy": 0.99,
+      "probe_subsets": 4
+    },
+    {
+      "representation": "absolute",
+      "model": "logistic",
+      "active_probe_count": 4,
+      "mean_accuracy_across_probe_subsets": 0.98,
+      "minimum_accuracy": 0.98,
+      "maximum_accuracy": 0.98,
+      "probe_subsets": 1
+    },
+    {
+      "representation": "absolute",
+      "model": "random_forest",
+      "active_probe_count": 0,
+      "mean_accuracy_across_probe_subsets": 0.2,
+      "minimum_accuracy": 0.2,
+      "maximum_accuracy": 0.2,
+      "probe_subsets": 1
+    },
+    {
+      "representation": "absolute",
+      "model": "random_forest",
+      "active_probe_count": 1,
+      "mean_accuracy_across_probe_subsets": 0.6499999999999999,
+      "minimum_accuracy": 0.2,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 4
+    },
+    {
+      "representation": "absolute",
+      "model": "random_forest",
+      "active_probe_count": 2,
+      "mean_accuracy_across_probe_subsets": 0.8666666666666667,
+      "minimum_accuracy": 0.6,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 6
+    },
+    {
+      "representation": "absolute",
+      "model": "random_forest",
+      "active_probe_count": 3,
+      "mean_accuracy_across_probe_subsets": 0.95,
+      "minimum_accuracy": 0.8,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 4
+    },
+    {
+      "representation": "absolute",
+      "model": "random_forest",
+      "active_probe_count": 4,
+      "mean_accuracy_across_probe_subsets": 1.0,
+      "minimum_accuracy": 1.0,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 1
+    },
+    {
+      "representation": "relational_mechanics",
+      "model": "logistic",
+      "active_probe_count": 0,
+      "mean_accuracy_across_probe_subsets": 0.2,
+      "minimum_accuracy": 0.2,
+      "maximum_accuracy": 0.2,
+      "probe_subsets": 1
+    },
+    {
+      "representation": "relational_mechanics",
+      "model": "logistic",
+      "active_probe_count": 1,
+      "mean_accuracy_across_probe_subsets": 0.6499999999999999,
+      "minimum_accuracy": 0.2,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 4
+    },
+    {
+      "representation": "relational_mechanics",
+      "model": "logistic",
+      "active_probe_count": 2,
+      "mean_accuracy_across_probe_subsets": 0.8666666666666667,
+      "minimum_accuracy": 0.6,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 6
+    },
+    {
+      "representation": "relational_mechanics",
+      "model": "logistic",
+      "active_probe_count": 3,
+      "mean_accuracy_across_probe_subsets": 0.95,
+      "minimum_accuracy": 0.8,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 4
+    },
+    {
+      "representation": "relational_mechanics",
+      "model": "logistic",
+      "active_probe_count": 4,
+      "mean_accuracy_across_probe_subsets": 1.0,
+      "minimum_accuracy": 1.0,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 1
+    },
+    {
+      "representation": "relational_mechanics",
+      "model": "random_forest",
+      "active_probe_count": 0,
+      "mean_accuracy_across_probe_subsets": 0.2,
+      "minimum_accuracy": 0.2,
+      "maximum_accuracy": 0.2,
+      "probe_subsets": 1
+    },
+    {
+      "representation": "relational_mechanics",
+      "model": "random_forest",
+      "active_probe_count": 1,
+      "mean_accuracy_across_probe_subsets": 0.6499999999999999,
+      "minimum_accuracy": 0.2,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 4
+    },
+    {
+      "representation": "relational_mechanics",
+      "model": "random_forest",
+      "active_probe_count": 2,
+      "mean_accuracy_across_probe_subsets": 0.8666666666666667,
+      "minimum_accuracy": 0.6,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 6
+    },
+    {
+      "representation": "relational_mechanics",
+      "model": "random_forest",
+      "active_probe_count": 3,
+      "mean_accuracy_across_probe_subsets": 0.95,
+      "minimum_accuracy": 0.8,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 4
+    },
+    {
+      "representation": "relational_mechanics",
+      "model": "random_forest",
+      "active_probe_count": 4,
+      "mean_accuracy_across_probe_subsets": 1.0,
+      "minimum_accuracy": 1.0,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 1
+    },
+    {
+      "representation": "relational_combined",
+      "model": "logistic",
+      "active_probe_count": 0,
+      "mean_accuracy_across_probe_subsets": 0.2,
+      "minimum_accuracy": 0.2,
+      "maximum_accuracy": 0.2,
+      "probe_subsets": 1
+    },
+    {
+      "representation": "relational_combined",
+      "model": "logistic",
+      "active_probe_count": 1,
+      "mean_accuracy_across_probe_subsets": 0.6499999999999999,
+      "minimum_accuracy": 0.2,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 4
+    },
+    {
+      "representation": "relational_combined",
+      "model": "logistic",
+      "active_probe_count": 2,
+      "mean_accuracy_across_probe_subsets": 0.8666666666666667,
+      "minimum_accuracy": 0.6,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 6
+    },
+    {
+      "representation": "relational_combined",
+      "model": "logistic",
+      "active_probe_count": 3,
+      "mean_accuracy_across_probe_subsets": 0.95,
+      "minimum_accuracy": 0.8,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 4
+    },
+    {
+      "representation": "relational_combined",
+      "model": "logistic",
+      "active_probe_count": 4,
+      "mean_accuracy_across_probe_subsets": 1.0,
+      "minimum_accuracy": 1.0,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 1
+    },
+    {
+      "representation": "relational_combined",
+      "model": "random_forest",
+      "active_probe_count": 0,
+      "mean_accuracy_across_probe_subsets": 0.2,
+      "minimum_accuracy": 0.2,
+      "maximum_accuracy": 0.2,
+      "probe_subsets": 1
+    },
+    {
+      "representation": "relational_combined",
+      "model": "random_forest",
+      "active_probe_count": 1,
+      "mean_accuracy_across_probe_subsets": 0.6499999999999999,
+      "minimum_accuracy": 0.2,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 4
+    },
+    {
+      "representation": "relational_combined",
+      "model": "random_forest",
+      "active_probe_count": 2,
+      "mean_accuracy_across_probe_subsets": 0.8666666666666667,
+      "minimum_accuracy": 0.6,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 6
+    },
+    {
+      "representation": "relational_combined",
+      "model": "random_forest",
+      "active_probe_count": 3,
+      "mean_accuracy_across_probe_subsets": 0.95,
+      "minimum_accuracy": 0.8,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 4
+    },
+    {
+      "representation": "relational_combined",
+      "model": "random_forest",
+      "active_probe_count": 4,
+      "mean_accuracy_across_probe_subsets": 1.0,
+      "minimum_accuracy": 1.0,
+      "maximum_accuracy": 1.0,
+      "probe_subsets": 1
+    }
+  ],
+  "paired_active_probe_tests": [
+    {
+      "representation": "absolute",
+      "model": "logistic",
+      "passive_correct_active_wrong": 0,
+      "passive_wrong_active_correct": 78,
+      "discordant_pairs": 78,
+      "exact_mcnemar_p": 6.617444900424222e-24
+    },
+    {
+      "representation": "absolute",
+      "model": "random_forest",
+      "passive_correct_active_wrong": 0,
+      "passive_wrong_active_correct": 80,
+      "discordant_pairs": 80,
+      "exact_mcnemar_p": 1.6543612251060553e-24
+    },
+    {
+      "representation": "relational_mechanics",
+      "model": "logistic",
+      "passive_correct_active_wrong": 0,
+      "passive_wrong_active_correct": 80,
+      "discordant_pairs": 80,
+      "exact_mcnemar_p": 1.6543612251060553e-24
+    },
+    {
+      "representation": "relational_mechanics",
+      "model": "random_forest",
+      "passive_correct_active_wrong": 0,
+      "passive_wrong_active_correct": 80,
+      "discordant_pairs": 80,
+      "exact_mcnemar_p": 1.6543612251060553e-24
+    },
+    {
+      "representation": "relational_combined",
+      "model": "logistic",
+      "passive_correct_active_wrong": 0,
+      "passive_wrong_active_correct": 80,
+      "discordant_pairs": 80,
+      "exact_mcnemar_p": 1.6543612251060553e-24
+    },
+    {
+      "representation": "relational_combined",
+      "model": "random_forest",
+      "passive_correct_active_wrong": 0,
+      "passive_wrong_active_correct": 80,
+      "discordant_pairs": 80,
+      "exact_mcnemar_p": 1.6543612251060553e-24
+    }
+  ],
+  "neural_summary": {
+    "absolute": {
+      "latent_accuracy_0_probes": {
+        "mean": 0.20000000000000004,
+        "std": 3.3993498887762956e-17,
+        "runs": 3
+      },
+      "latent_accuracy_1_probes": {
+        "mean": 0.3941666666666667,
+        "std": 0.11950339160902758,
+        "runs": 12
+      },
+      "latent_accuracy_2_probes": {
+        "mean": 0.5072222222222222,
+        "std": 0.0705278881474268,
+        "runs": 18
+      },
+      "latent_accuracy_3_probes": {
+        "mean": 0.5616666666666666,
+        "std": 0.05749835307259335,
+        "runs": 12
+      },
+      "latent_accuracy_4_probes": {
+        "mean": 0.5966666666666667,
+        "std": 0.01527525231651948,
+        "runs": 3
+      },
+      "held_out_probe_rmse": {
+        "mean": 2.517840415239334,
+        "std": 0.8470055154573538
+      },
+      "latent_separation_ratio": {
+        "mean": 0.806635483226969,
+        "std": 0.10639143613167383
+      }
+    },
+    "relational": {
+      "latent_accuracy_0_probes": {
+        "mean": 0.20000000000000004,
+        "std": 3.3993498887762956e-17,
+        "runs": 3
+      },
+      "latent_accuracy_1_probes": {
+        "mean": 0.5499999999999999,
+        "std": 0.22763607319179846,
+        "runs": 12
+      },
+      "latent_accuracy_2_probes": {
+        "mean": 0.7666666666666667,
+        "std": 0.14142135623730953,
+        "runs": 18
+      },
+      "latent_accuracy_3_probes": {
+        "mean": 0.8908333333333335,
+        "std": 0.09967751030501341,
+        "runs": 12
+      },
+      "latent_accuracy_4_probes": {
+        "mean": 0.96,
+        "std": 0.060827625302982184,
+        "runs": 3
+      },
+      "held_out_probe_rmse": {
+        "mean": 0.31681911026438075,
+        "std": 0.22342954248790142
+      },
+      "latent_separation_ratio": {
+        "mean": 5.136485479475664,
+        "std": 0.27690838907102816
+      }
+    }
+  },
+  "neural_ood_slices": {
+    "absolute": {
+      "pose": {
+        "prediction_rmse_mean": 3.297879179318746,
+        "latent_accuracy_mean": 0.25
+      },
+      "scale": {
+        "prediction_rmse_mean": 0.6816091140111288,
+        "latent_accuracy_mean": 0.7999999999999999
+      },
+      "mass": {
+        "prediction_rmse_mean": 0.6594859560330709,
+        "latent_accuracy_mean": 0.7666666666666666
+      },
+      "shape": {
+        "prediction_rmse_mean": 0.6171393990516663,
+        "latent_accuracy_mean": 0.9166666666666666
+      },
+      "combined": {
+        "prediction_rmse_mean": 4.484460194905599,
+        "latent_accuracy_mean": 0.25
+      }
+    },
+    "relational": {
+      "pose": {
+        "prediction_rmse_mean": 0.4247606893380483,
+        "latent_accuracy_mean": 0.9333333333333332
+      },
+      "scale": {
+        "prediction_rmse_mean": 0.3210343321164449,
+        "latent_accuracy_mean": 0.9833333333333334
+      },
+      "mass": {
+        "prediction_rmse_mean": 0.3299504518508911,
+        "latent_accuracy_mean": 0.9666666666666667
+      },
+      "shape": {
+        "prediction_rmse_mean": 0.44289801518122357,
+        "latent_accuracy_mean": 0.9666666666666667
+      },
+      "combined": {
+        "prediction_rmse_mean": 0.37636643648147583,
+        "latent_accuracy_mean": 0.9500000000000001
+      }
+    }
+  },
+  "interpretation_guardrails": [
+    "The five classes are controlled 2D kinematic constraint families, not universal mechanisms.",
+    "Passive trials are intentionally non-identifiable because matched rigs begin at the same rest state.",
+    "Family labels are not used to train the encoder-decoder; they are used only for linear-probe evaluation.",
+    "The relational advantage is measured under simulator distribution shifts and is not evidence of real-world transfer."
+  ]
+}

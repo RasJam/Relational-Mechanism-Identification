@@ -1,0 +1,169 @@
+{
+  "status": "passed",
+  "trajectories": 2000,
+  "assemblies": 400,
+  "total_frames": 240000,
+  "shapes": {
+    "raw": [
+      2000,
+      120,
+      31
+    ],
+    "relational": [
+      2000,
+      120,
+      35
+    ],
+    "absolute_geometry": [
+      2000,
+      26
+    ],
+    "relational_geometry": [
+      2000,
+      21
+    ],
+    "poses": [
+      2000,
+      120,
+      3,
+      7
+    ]
+  },
+  "family_protocol_summary": {
+    "fixed_coupling": {
+      "passive": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 0.0,
+        "median_secondary_angular_speed": 0.0
+      },
+      "push_x": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 0.0,
+        "median_secondary_angular_speed": 0.0
+      },
+      "push_y": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 0.0,
+        "median_secondary_angular_speed": 0.0
+      },
+      "torque_ccw": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 0.0,
+        "median_secondary_angular_speed": 0.0
+      },
+      "torque_cw": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 0.0,
+        "median_secondary_angular_speed": 0.0
+      }
+    },
+    "revolute_hinge": {
+      "passive": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 0.0,
+        "median_secondary_angular_speed": 0.0
+      },
+      "push_x": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 4.5783305168151855,
+        "median_secondary_angular_speed": 0.0
+      },
+      "push_y": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 0.0,
+        "median_secondary_angular_speed": 0.0
+      },
+      "torque_ccw": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 4.763249397277832,
+        "median_secondary_angular_speed": 0.0
+      },
+      "torque_cw": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 4.763249397277832,
+        "median_secondary_angular_speed": 0.0
+      }
+    },
+    "prismatic_guide": {
+      "passive": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 0.0,
+        "median_secondary_angular_speed": 0.0
+      },
+      "push_x": {
+        "median_primary_displacement": 0.9713897705078125,
+        "median_primary_angular_speed": 0.0,
+        "median_secondary_angular_speed": 0.0
+      },
+      "push_y": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 0.0,
+        "median_secondary_angular_speed": 0.0
+      },
+      "torque_ccw": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 0.0,
+        "median_secondary_angular_speed": 0.0
+      },
+      "torque_cw": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 0.0,
+        "median_secondary_angular_speed": 0.0
+      }
+    },
+    "ratchet_wheel": {
+      "passive": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 0.0,
+        "median_secondary_angular_speed": 0.0
+      },
+      "push_x": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 2.8639617084991187e-05,
+        "median_secondary_angular_speed": 0.0
+      },
+      "push_y": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 0.0,
+        "median_secondary_angular_speed": 0.0
+      },
+      "torque_ccw": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 4.763249397277832,
+        "median_secondary_angular_speed": 0.0
+      },
+      "torque_cw": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 2.3730606699245982e-05,
+        "median_secondary_angular_speed": 0.0
+      }
+    },
+    "gear_pair": {
+      "passive": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 0.0,
+        "median_secondary_angular_speed": 0.0
+      },
+      "push_x": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 2.531919240951538,
+        "median_secondary_angular_speed": 3.528468132019043
+      },
+      "push_y": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 0.0,
+        "median_secondary_angular_speed": 0.0
+      },
+      "torque_ccw": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 2.2344307899475098,
+        "median_secondary_angular_speed": 3.335599899291992
+      },
+      "torque_cw": {
+        "median_primary_displacement": 0.0,
+        "median_primary_angular_speed": 2.2344307899475098,
+        "median_secondary_angular_speed": 3.335599899291992
+      }
+    }
+  }
+}

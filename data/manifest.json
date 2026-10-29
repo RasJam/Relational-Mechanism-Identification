@@ -1,0 +1,57 @@
+{
+  "dataset": "Active Constraint Space v2",
+  "version": "acs-2.0",
+  "description": "Paired passive and active trials for naturalized 2D kinematic assemblies, with absolute and relational state, action, reaction, energy, and geometry measurements.",
+  "seed": 20260722,
+  "families": [
+    "fixed_coupling",
+    "revolute_hinge",
+    "prismatic_guide",
+    "ratchet_wheel",
+    "gear_pair"
+  ],
+  "protocols": [
+    "passive",
+    "push_x",
+    "push_y",
+    "torque_ccw",
+    "torque_cw"
+  ],
+  "assemblies_per_family": 80,
+  "trials_per_assembly": 5,
+  "assemblies": 400,
+  "trajectories": 2000,
+  "frames_per_trajectory": 120,
+  "total_frames": 240000,
+  "dt_seconds": 0.016666666666666666,
+  "splits_per_family": {
+    "train": 52,
+    "validation": 8,
+    "ood_test": 20
+  },
+  "ood_regimes": [
+    "pose",
+    "scale",
+    "mass",
+    "shape",
+    "combined"
+  ],
+  "measurements": {
+    "raw_frame_features": 31,
+    "relational_frame_features": 35,
+    "absolute_geometry_features": 26,
+    "relational_geometry_features": 21
+  },
+  "experimental_unit": "One assembly is cloned into passive, push-x, push-y, clockwise-torque, and counter-clockwise-torque trials from an identical initial state.",
+  "label_exclusion": "Family labels, constraint identifiers, allowed-motion flags, and blocked-motion flags are absent from all model input arrays.",
+  "files": {
+    "active_constraint_space_v2.npz": {
+      "bytes": 7321357,
+      "sha256": "e8582f58e9ca060bee176db071f03ac70d4c1935ce441eabf05be64e40d00c33"
+    },
+    "trajectory_metadata.jsonl": {
+      "bytes": 2512115,
+      "sha256": "4356cf96dbbe2d402ea800398cb40aab1ac93f844c0e734ce9000956a0326e3a"
+    }
+  }
+}

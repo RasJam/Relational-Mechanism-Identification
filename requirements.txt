@@ -1,0 +1,9 @@
+numpy==2.3.5
+scipy==1.18.0
+scikit-learn==1.9.0
+pymunk==7.3.0
+matplotlib==3.11.1
+pillow==12.2.0
+joblib==1.5.3
+torch==2.13.0
+
